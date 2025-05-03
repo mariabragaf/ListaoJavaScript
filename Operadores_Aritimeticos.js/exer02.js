@@ -1,4 +1,4 @@
-let num1 = 13;
-let num2 = 30;
+let base = 4;
+let altura = 2;
 
-console.log(num1 + num2);
+console.log('a área do retângulo é ' + base * altura);
